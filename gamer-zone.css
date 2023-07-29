@@ -86,7 +86,7 @@ nav{
     width: 555px;
     height: 700px;
     flex-shrink: 0;
-    background-image: url("/images/Group\ 14.png");
+    background-image: url("./images/Group\ 14.png");
         /* background-position: center; */
     /* margin: 50px 180px; */
     background-repeat: no-repeat;
